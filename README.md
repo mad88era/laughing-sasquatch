@@ -21,4 +21,10 @@ THEN the saved events persist
 
 ## ScreenShots
 
+![Alt text](sasquatchscreenshot.png)
 
+## Reference Links
+
+website link: https://mad88era.github.io/laughing-sasquatch/
+
+Repository Link: https://github.com/mad88era/laughing-sasquatch
